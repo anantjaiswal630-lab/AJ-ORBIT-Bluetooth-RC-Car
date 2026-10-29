@@ -1,4 +1,3 @@
-Arduino Uno Bluetooth-controlled 4WD RC car using an L293D motor driver shield, with adjustable speed and wireless control.
 # AJ-ORBIT Bluetooth-Controlled RC Car
 
 <p align="center">

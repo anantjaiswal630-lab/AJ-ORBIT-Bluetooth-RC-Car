@@ -238,11 +238,6 @@ Add each file to the repository when it is available. Ensure the wiring diagram 
 **Domain:** Robotics, Embedded Systems & Hardware Engineering  
 **Tagline:** Build Beyond Limits.
 
----
-
-## 📄 License
-
-Choose an open-source license before distributing the project. The MIT License is one option for permitting reuse and modification of the code under its terms. Include a `LICENSE` file only after selecting the license.
 
 <p align="center">
   <strong>AJ-ORBIT</strong><br>

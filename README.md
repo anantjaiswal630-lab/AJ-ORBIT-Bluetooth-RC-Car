@@ -119,7 +119,7 @@ The project demonstrates the integration of microcontroller programming, wireles
 - Compatible `AFMotor` library, if using V1-style shield hardware
 - Bluetooth controller app that transmits the supported command characters
 
-### Library installation
+### Library & App installation
 
 For compatible V1-style shields, install the library from the official repository:
 

@@ -125,6 +125,8 @@ For compatible V1-style shields, install the library from the official repositor
 
 **[Adafruit Motor Shield V1 Library](https://github.com/adafruit/Adafruit-Motor-Shield-library)**
 
+**[Download App](https://bluetooth-rc-car.en.download.it/android)**
+
 1. Open the repository.
 2. Download the ZIP archive.
 3. In Arduino IDE, select **Sketch → Include Library → Add .ZIP Library**.
